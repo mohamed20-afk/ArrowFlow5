@@ -35,7 +35,7 @@ With an immersive dark aesthetic and thousands of engaging levels, it tests your
 ## 🌐 Live Demo
 
 You can play the live version of the game directly in your browser here:
-👉 **[Play ArrowFlow Live](https://mohamed20-afk.github.io/ArrowFlow5/)**
+👉 **[Play ArrowFlow Live](https://arrow-escape-grid.lovable.app/)**
 
 ---
 _Powered by mohamed20-afk_
